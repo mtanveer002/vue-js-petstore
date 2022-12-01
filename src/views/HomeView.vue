@@ -9,7 +9,7 @@
 import { Options, Vue } from 'vue-class-component';
 import Pats from '../components/Pats.vue';
 import Addpat from '../components/Addpat.vue';
-
+//add from github
 @Options({
   components: {
   Pats,
